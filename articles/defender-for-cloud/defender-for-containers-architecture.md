@@ -20,7 +20,7 @@ Defender for Containers is designed differently for each Kubernetes environment 
 - **An unmanaged Kubernetes distribution** (using Azure Arc-enabled Kubernetes) - Cloud Native Computing Foundation (CNCF) certified Kubernetes clusters hosted on-premises or on IaaS.
 
 > [!NOTE]
-> Defender for Containers support for Arc-enabled Kubernetes clusters (AWS EKS and GCP GKE) is a preview feature.
+> Defender for Containers support for Arc-enabled Kubernetes clusters (AWS EKS and GCP GKE) is a preview feature. AWS Fargate is currently not supported.
 
 To protect your Kubernetes containers, Defender for Containers receives and analyzes:
 
